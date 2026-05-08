@@ -1,5 +1,4 @@
-Bank Management System - README
-Project Title
+Bank Management System 
 
 Bank-account-system:  https://onlinegdb.com/iljPf_Y7N
 
